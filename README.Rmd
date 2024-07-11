@@ -22,10 +22,11 @@ The goal of mypkg is to ...
 
 ## Installation
 
-You can install the development version of mypkg like so:
+You can install the development version of mypkg from [GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("aerostain/mypkg")
 ```
 
 ## Example
